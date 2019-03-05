@@ -8,7 +8,7 @@ public class Evento {
     private Cabeçalho  info;
     private Organizador produtor;
     private Ingresso ingresso;
-    //private Participantes participante;
+    private Participante participante;
    
     
 }
